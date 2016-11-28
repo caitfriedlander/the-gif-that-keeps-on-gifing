@@ -1,8 +1,8 @@
 var _ = require('lodash');
 
 var localEnvVars = {
-  TITLE:      'the-gif-that-keeps-on-gifing',
-  SAFE_TITLE: 'the-gif-that-keeps-on-gifing'
+  TITLE:      'The Gif That Keeps On Gifing',
+  SAFE_TITLE: 'The Gif That Keeps On Gifing'
 };
 
 // Merge all environmental variables into one object.
