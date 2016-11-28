@@ -59,7 +59,7 @@ $('#share-results').click(function() {
         </div>
       	</div>
 			`);
-			$('input').val(`http://thawing-temple-44187.herokuapp.com//shareMyResults/${data.user._id}`);
+			$('input').val(`http://thawing-temple-44187.herokuapp.com/shareMyResults/${data.user._id}`);
 		}
 	})
 })
